@@ -1,5 +1,6 @@
-_site
-.sass-cache
-.jekyll-cache
-.jekyll-metadata
-vendor
+_site/
+images/posts/*.tex
+images/posts/*.pdf
+images/posts/*.sty
+_source/*_cache
+.Rproj.user
