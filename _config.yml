@@ -78,9 +78,6 @@ analytics:
   provider               : "google" # false (default), "google", "google-universal", "custom", "goatcounter"
   google:
     tracking_id          : "G-ZDKMHZK0P1"
-  goatcounter:
-    code		 : jswolfrath
-
 
 # Site Author
 author:
