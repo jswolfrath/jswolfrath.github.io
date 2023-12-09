@@ -12,8 +12,8 @@ main:
   - title: "Service"
     url: /service/
 
-#  - title: "Posts"
-#    url: /posts/
+  - title: "Blog Posts"
+    url: /posts/
     
   - title: "CV"
     url: /cv/
