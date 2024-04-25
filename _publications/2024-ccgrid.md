@@ -5,5 +5,5 @@ permalink: /publication/2024-ccgrid
 date: 2024-05-06
 venue: 'CCGrid'
 paperurl: '/files/papers/2024/daisy.pdf'
-citation: '<b>Joel Wolfrath</b>, Anirudh Achanta, and Abhishek Chandra. 2024. Leveraging Multi-Modal Data for Efficient Edge Inference Serving. <i>24th IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGrid 2024)</i> (to appear).'
+citation: '<b>Joel Wolfrath</b>, Anirudh Achanta, and Abhishek Chandra. 2024. Leveraging Multi-Modal Data for Efficient Edge Inference Serving. <i>24th IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGrid 2024)</i>.'
 ---
