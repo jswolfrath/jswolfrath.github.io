@@ -6,6 +6,7 @@ title: ""
 ## Peer Reviewer
 
 * IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+* IEEE Transactions on Mobile Computing (TMC)
 
 ## External Reviewer
 
