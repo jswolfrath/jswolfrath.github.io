@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Joel Wolfrath"
 title_separator          : "-"
 name                     : &name "Joel Wolfrath"
-description              : &description "Ph.D. Candidate in Computer Science"
+description              : &description "Ph.D. Computer Science"
 #url                      : https://jswolfrath.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 url                      : https://joelwolfrath.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -83,13 +83,13 @@ analytics:
 author:
   name             : "Joel Wolfrath"
   avatar           : "avatar.jpeg"
-  bio              : "Ph.D. Candidate in Computer Science"
+  bio              : "Ph.D. Computer Science"
   location         : "Minneapolis, MN"
   employer         :
   pubmed           :
   orcid            : "https://orcid.org/0000-0002-7251-3740"
   googlescholar    : "https://scholar.google.com/citations?user=9cFdABgAAAAJ"
-  email            : "wolfr046@umn.edu"
+  email            : "jwolfrath@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
