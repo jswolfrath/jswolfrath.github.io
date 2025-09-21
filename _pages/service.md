@@ -8,6 +8,9 @@ title: ""
 * IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 * IEEE Transactions on Mobile Computing (TMC)
 
+## PC Member
+* ACM EuroSys (2026)
+
 ## External Reviewer
 
 * USENIX ATC (2025)
